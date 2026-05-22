@@ -1,31 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Asterisk!%20🌟&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20from%20Korea&descAlignY=55&descSize=18" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80%3BNode.js+%7C+Next.js+%7C+Spring+Boot%3BAlways+learning+new+things+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Asterisk0707&style=flat-square&color=58a6ff&label=Profile+Views" />
 </div>
-
----
-
-## 🙋‍♂️ About Me
-
-**한국공학대학교 컴퓨터공학부** 재학 중인 백엔드 개발자 지망생입니다.
-
-```yaml
-name     : Asterisk
-school   : Korea Polytechnic University (한국공학대학교)
-major    : Computer Engineering (컴퓨터공학부)
-focus    : Backend Development
-journey  : Node.js → Next.js → Spring Boot 탐색 중
-interest : ["Web Development", "System Design", "O2O Services"]
-```
 
 ---
 
@@ -33,10 +8,10 @@ interest : ["Web Development", "System Design", "O2O Services"]
 
 | 연도 | 프로젝트 | 역할 | 기술스택 | 팀 | 기간 |
 |:----:|----------|:----:|----------|:--:|:----:|
-| 2025~ | [**득템시루**](https://github.com/deuktemsiru) — 시흥시 소상공인 라스트미닛 할인 픽업 O2O 앱 | PM / FE | `Node.js` `React` `MySQL` | - | 2025.03~ |
+| 2026~ | [**득템시루**](https://github.com/deuktemsiru) — 시흥시 소상공인 라스트미닛 할인 픽업 O2O 앱 | PM / FE | `Node.js` `React` `MySQL` | - | 2026.05.01~ |
 | 2025 | [**HAD - BETTER**](https://github.com/2025-TECHEER-TEAM-H) — 실시간 대중교통 데이터 기반 경로 레이싱 서비스 | BE / Design | `Django` `Celery` `RabbitMQ` `SSE` `PostGIS` | 6명 | 2025.12~2026.01 |
-| 2025 | [**씨부엉 웹페이지**](https://github.com/cbu-manage) — 한국공학대학교 프로그래밍 클럽 커뮤니티 플랫폼 | FE | `Next.js` `TypeScript` `Tailwind` `Zustand` | 8명 | 2025.10~2026.02 |
-| 2022 | **AURES - AR 쇼핑몰** — AR 기술 기반 가구 배치 쇼핑 앱 | Design | `Adobe XD` | 4명 | 2022.09 |
+| 2026 | [**씨부엉 웹페이지**](https://github.com/cbu-manage) — 한국공학대학교 프로그래밍 클럽 커뮤니티 플랫폼 | FE | `Next.js` `TypeScript` `Tailwind` `Zustand` | 8명 | 2025.10~ |
+| 2022 | **AURES - AR 쇼핑몰** — AR 기술 기반 가구 배치 쇼핑 앱 | Design | `Adobe XD` | 4명 | 2022.09.06~2022.09.27 |
 
 ---
 
@@ -72,25 +47,3 @@ interest : ["Web Development", "System Design", "O2O Services"]
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asterisk0707&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asterisk0707&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asterisk0707&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
