@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%7C+Next.js+%7C+Spring+Boot;Always+learning+new+things+%E2%9C%A8;한국공학대학교+컴퓨터공학부" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80%3BNode.js+%7C+Next.js+%7C+Spring+Boot%3BAlways+learning+new+things+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -78,8 +78,7 @@ interest : ["Web Development", "System Design", "O2O Services"]
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Asterisk0707&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asterisk0707&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Asterisk0707&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 <div align="center">
