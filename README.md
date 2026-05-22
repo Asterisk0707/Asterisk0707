@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asterisk0707&style=flat-square&color=58a6ff&label=Profile+Views" />
-</div>
+## 🙋‍♂️ About Me
+
+**한국공학대학교 컴퓨터공학부** 3학년
+
+백엔드 개발자 지망 · Node.js → Spring Boot 탐색 중
 
 ---
 
@@ -47,3 +49,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asterisk0707&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
