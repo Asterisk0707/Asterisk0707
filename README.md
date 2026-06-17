@@ -22,7 +22,7 @@
 
 | 학기 | 과목 | 프로젝트 | 역할 | 기술스택 |
 |:----:|:----:|----------|:----:|----------|
-| 2026-1 | 모바일프로그래밍 | [**득템시루**](https://github.com/deuktemsiru) — 시흥시 소상공인 라스트미닛 할인 픽업 O2O 앱 | PM / FE | `Android Studio` `Spring Boot` | 5명 | 2026.05.01~ |`AJAX` |
+| 2026-1 | 모바일프로그래밍 | [**득템시루**](https://github.com/deuktemsiru) — 시흥시 소상공인 라스트미닛 할인 픽업 O2O 앱 | PM / FE / BE| `Android Studio` `Spring Boot` | 5명 | 2026.05.01~ |`AJAX` |
 | 2025-2 | 데이터베이스 | [**TU-AIR**](https://github.com/Movinggun-bit/TU_Air) — 항공사 온라인 예약 시스템 | FE | `Flask` `HTML/CSS/JS` `Jinja2` `AJAX` |
 | 2022-1 | 프로그래밍 기초 | [**파이썬 슈팅게임**](https://github.com/Asterisk0707/Pyshooing_Game) — Pygame 기반 전투기 슈팅 게임 | Leader / Dev | `Python` `Pygame` `tkinter` `OpenCV` |
 
