@@ -12,9 +12,8 @@
 
 | 연도 | 프로젝트 | 역할 | 기술스택 | 팀 | 기간 |
 |:----:|----------|:----:|----------|:--:|:----:|
-| 2026~ | [**득템시루**](https://github.com/deuktemsiru) — 시흥시 소상공인 라스트미닛 할인 픽업 O2O 앱 | PM / FE | `Android Studio` `Spring Boot` | 5명 | 2026.05.01~ |
 | 2025 | [**HAD - BETTER**](https://github.com/2025-TECHEER-TEAM-H) — 실시간 대중교통 데이터 기반 경로 레이싱 서비스 | BE / Design | `Django` `Celery` `RabbitMQ` `SSE` `PostGIS` | 6명 | 2025.12~2026.01 |
-| 2026 | [**씨부엉 웹페이지**](https://github.com/cbu-manage) — 한국공학대학교 프로그래밍 클럽 커뮤니티 플랫폼 | FE | `Next.js` `TypeScript` `Tailwind` `Zustand` | 11명 | 2025.10~ |
+| 2026~ | [**씨부엉 웹페이지**](https://github.com/cbu-manage) — 한국공학대학교 프로그래밍 클럽 커뮤니티 플랫폼 | FE | `Next.js` `TypeScript` `Tailwind` `Zustand` | 11명 | 2025.10~ |
 | 2022 | **AURES - AR 쇼핑몰** — AR 기술 기반 가구 배치 쇼핑 앱 | Design | `Adobe XD` | 4명 | 2022.09.06~2022.09.27 |
 
 ---
@@ -23,6 +22,7 @@
 
 | 학기 | 과목 | 프로젝트 | 역할 | 기술스택 |
 |:----:|:----:|----------|:----:|----------|
+| 2026-1 | 모바일프로그래밍 | [**득템시루**](https://github.com/deuktemsiru) — 시흥시 소상공인 라스트미닛 할인 픽업 O2O 앱 | PM / FE | `Android Studio` `Spring Boot` | 5명 | 2026.05.01~ |`AJAX` |
 | 2025-2 | 데이터베이스 | [**TU-AIR**](https://github.com/Movinggun-bit/TU_Air) — 항공사 온라인 예약 시스템 | FE | `Flask` `HTML/CSS/JS` `Jinja2` `AJAX` |
 | 2022-1 | 프로그래밍 기초 | [**파이썬 슈팅게임**](https://github.com/Asterisk0707/Pyshooing_Game) — Pygame 기반 전투기 슈팅 게임 | Leader / Dev | `Python` `Pygame` `tkinter` `OpenCV` |
 
