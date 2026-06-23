@@ -12,8 +12,8 @@
 
 | 연도 | 프로젝트 | 역할 | 기술스택 | 팀 | 기간 |
 |:----:|----------|:----:|----------|:--:|:----:|
-| 2025 | [**HAD - BETTER**](https://github.com/2025-TECHEER-TEAM-H) — 실시간 대중교통 데이터 기반 경로 레이싱 서비스 | BE / Design | `Django` `Celery` `RabbitMQ` `SSE` `PostGIS` | 6명 | 2025.12~2026.01 |
 | 2026~ | [**씨부엉 웹페이지**](https://github.com/cbu-manage) — 한국공학대학교 프로그래밍 클럽 커뮤니티 플랫폼 | FE | `Next.js` `TypeScript` `Tailwind` `Zustand` | 11명 | 2025.10~ |
+| 2025 | [**HAD - BETTER**](https://github.com/2025-TECHEER-TEAM-H) — 실시간 대중교통 데이터 기반 경로 레이싱 서비스 | BE / Design | `Django` `Celery` `RabbitMQ` `SSE` `PostGIS` | 6명 | 2025.12~2026.01 |
 | 2022 | **AURES - AR 쇼핑몰** — AR 기술 기반 가구 배치 쇼핑 앱 | Design | `Adobe XD` | 4명 | 2022.09.06~2022.09.27 |
 
 ---
