@@ -2,7 +2,7 @@
 
 **한국공학대학교 컴퓨터공학부** 3학년
 
-백엔드 개발자 지망 · Node.js → Next.js → Spring Boot 탐색 예정
+백엔드 개발자 지망 · Node.js → Next.js → Spring Boot 탐색 예정.
 
 기타와 음악을 사랑합니다.
 
